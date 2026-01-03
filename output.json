@@ -1,0 +1,277 @@
+[
+  {
+    "id": "a",
+    "text": "25",
+    "confidence": 1.0,
+    "bbox": {
+      "x": 982,
+      "y": 99,
+      "width": 26,
+      "height": 30
+    }
+  },
+  {
+    "id": "b",
+    "text": "12",
+    "confidence": 0.9999978083645809,
+    "bbox": {
+      "x": 330,
+      "y": 134,
+      "width": 26,
+      "height": 30
+    }
+  },
+  {
+    "id": "c",
+    "text": "21",
+    "confidence": 1.0,
+    "bbox": {
+      "x": 404,
+      "y": 159,
+      "width": 27,
+      "height": 28
+    }
+  },
+  {
+    "id": "d",
+    "text": "5",
+    "confidence": 0.9999992847443906,
+    "bbox": {
+      "x": 334,
+      "y": 188,
+      "width": 21,
+      "height": 13
+    }
+  },
+  {
+    "id": "e",
+    "text": "12",
+    "confidence": 0.9999307112841485,
+    "bbox": {
+      "x": 984,
+      "y": 197,
+      "width": 27,
+      "height": 31
+    }
+  },
+  {
+    "id": "f",
+    "text": "75",
+    "confidence": 0.9999949423819248,
+    "bbox": {
+      "x": 748,
+      "y": 248,
+      "width": 29,
+      "height": 26
+    }
+  },
+  {
+    "id": "g",
+    "text": "20",
+    "confidence": 0.999998651301114,
+    "bbox": {
+      "x": 265,
+      "y": 302,
+      "width": 29,
+      "height": 28
+    }
+  },
+  {
+    "id": "h",
+    "text": "25",
+    "confidence": 0.9999994942378553,
+    "bbox": {
+      "x": 388,
+      "y": 302,
+      "width": 29,
+      "height": 28
+    }
+  },
+  {
+    "id": "i",
+    "text": "25",
+    "confidence": 0.9999996628252286,
+    "bbox": {
+      "x": 140,
+      "y": 303,
+      "width": 30,
+      "height": 27
+    }
+  },
+  {
+    "id": "j",
+    "text": "20",
+    "confidence": 0.9999949423819248,
+    "bbox": {
+      "x": 597,
+      "y": 341,
+      "width": 30,
+      "height": 27
+    }
+  },
+  {
+    "id": "k",
+    "text": "20",
+    "confidence": 0.9999987355947788,
+    "bbox": {
+      "x": 900,
+      "y": 343,
+      "width": 30,
+      "height": 26
+    }
+  },
+  {
+    "id": "l",
+    "text": "25",
+    "confidence": 0.9999998314126102,
+    "bbox": {
+      "x": 730,
+      "y": 353,
+      "width": 27,
+      "height": 31
+    }
+  },
+  {
+    "id": "m",
+    "text": "50",
+    "confidence": 0.9999748805706943,
+    "bbox": {
+      "x": 986,
+      "y": 422,
+      "width": 26,
+      "height": 30
+    }
+  },
+  {
+    "id": "n",
+    "text": "15",
+    "confidence": 0.9999968811346347,
+    "bbox": {
+      "x": 113,
+      "y": 434,
+      "width": 29,
+      "height": 27
+    }
+  },
+  {
+    "id": "o",
+    "text": "8",
+    "confidence": 0.9999994039536411,
+    "bbox": {
+      "x": 226,
+      "y": 436,
+      "width": 17,
+      "height": 22
+    }
+  },
+  {
+    "id": "p",
+    "text": "8",
+    "confidence": 0.9999909401145146,
+    "bbox": {
+      "x": 315,
+      "y": 437,
+      "width": 15,
+      "height": 21
+    }
+  },
+  {
+    "id": "q",
+    "text": "0",
+    "confidence": 0.9402846416326192,
+    "bbox": {
+      "x": 358,
+      "y": 437,
+      "width": 16,
+      "height": 22
+    }
+  },
+  {
+    "id": "r",
+    "text": "8",
+    "confidence": 0.9999992847443906,
+    "bbox": {
+      "x": 184,
+      "y": 438,
+      "width": 14,
+      "height": 19
+    }
+  },
+  {
+    "id": "s",
+    "text": "8",
+    "confidence": 0.9999978542339392,
+    "bbox": {
+      "x": 272,
+      "y": 438,
+      "width": 13,
+      "height": 19
+    }
+  },
+  {
+    "id": "t",
+    "text": "40",
+    "confidence": 0.9999994942378553,
+    "bbox": {
+      "x": 404,
+      "y": 450,
+      "width": 25,
+      "height": 30
+    }
+  },
+  {
+    "id": "u",
+    "text": "8",
+    "confidence": 0.985047745520351,
+    "bbox": {
+      "x": 610,
+      "y": 518,
+      "width": 29,
+      "height": 26
+    }
+  },
+  {
+    "id": "v",
+    "text": "25",
+    "confidence": 0.9999996628252286,
+    "bbox": {
+      "x": 748,
+      "y": 519,
+      "width": 30,
+      "height": 27
+    }
+  },
+  {
+    "id": "w",
+    "text": "12",
+    "confidence": 0.9999962910793456,
+    "bbox": {
+      "x": 840,
+      "y": 527,
+      "width": 25,
+      "height": 27
+    }
+  },
+  {
+    "id": "x",
+    "text": "FIG. 17-89",
+    "confidence": 0.6662628043576507,
+    "bbox": {
+      "x": 212,
+      "y": 626,
+      "width": 131,
+      "height": 28
+    }
+  },
+  {
+    "id": "y",
+    "text": "06-LL \"%14",
+    "confidence": 0.584381871577547,
+    "bbox": {
+      "x": 726,
+      "y": 626,
+      "width": 132,
+      "height": 28
+    }
+  }
+]
